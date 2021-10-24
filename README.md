@@ -1,6 +1,6 @@
 # website-marketing-hw1
 
-##About
+## About
 
 This project was a refactoring project in order to make sure the website is structured with semantic tags. As a result these tags make it clear to the browser what the meaning of the page and it's content is. 
 
