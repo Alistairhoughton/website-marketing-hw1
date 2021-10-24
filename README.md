@@ -18,3 +18,6 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 
+## Deployment 
+
+The project is live here - https://alistairhoughton.github.io/website-marketing-hw1/
