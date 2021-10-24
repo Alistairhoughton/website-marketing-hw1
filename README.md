@@ -21,3 +21,5 @@ https://developer.mozilla.org/en-US/docs/Glossary/Semantics
 ## Deployment 
 
 The project is live here - https://alistairhoughton.github.io/website-marketing-hw1/
+
+![screenshot](https://i.gyazo.com/6c6fc2c2dbf202b1d2ce9bf76e7c2905.jpg)
